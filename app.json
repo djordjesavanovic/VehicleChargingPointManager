@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "VehicleChargingPointManager",
+    "slug": "VehicleChargingPointManager",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.oli.VehicleChargingPointManager"
+    }
+  }
+}
